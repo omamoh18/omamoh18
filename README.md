@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-omar-960142188" target="blank"><img align="center" src="ri-linkedin-box-line" alt="https://www.linkedin.com/in/mohammed-omar-960142188" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-omar-960142188" target="blank"><img align="center" src="http://www.w3.org/2000/svg" alt="https://www.linkedin.com/in/mohammed-omar-960142188" height="30" width="40" /></a>
 </p>
 
 <!-- Actual text -->
