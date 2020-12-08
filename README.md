@@ -10,7 +10,7 @@
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![https://www.linkedin.com/in/mohammed-omar-960142188][3.2]][3].
 
 <!-- Icons -->
 
