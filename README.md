@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-omar-960142188" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohammed-omar-960142188" height="30" width="40" color="#0e76a8" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-omar-960142188" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohammed-omar-960142188" height="30" width="40" theme="blue" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
