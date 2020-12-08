@@ -13,3 +13,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omamoh18&show_icons=true&theme=chartreuse-dark" alt="omamoh18" /></p>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omamoh18&repo=github-readme-stats)](https://github.com/omamoh18/github-readme-stats)
+
