@@ -13,7 +13,7 @@
 
 ![](https://img.shields.io/badge/Code-Java-informational??style=for-the-badge&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Kotlin-informational??style=for-the-badge&logo=<LOGO_NAME>&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-C #-informational??style=for-the-badge&logo=<LOGO_NAME>&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-csharp-informational??style=for-the-badge&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-C-informational??style=for-the-badge&logo=<LOGO_NAME>&logoColor=white&color=blue)
 
 
