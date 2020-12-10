@@ -2,7 +2,6 @@
 <h3 align="center">I am currently completing my bachelor's degree at Kristiania University in Oslo, studying programming.</h3>
 
 <h3 align="left">Where to reach me:</h3>
-<h3 align="left">Linkedin:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammed-omar-960142188" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/mohammed-omar-960142188"/></a>
 <p align="left">
