@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Mohammed Omar</h1>
 <h3 align="center">I'm currently completing my bachelor's degree at Kristiania University in Oslo, studying programming.</h3>
 
-<h3 align="left">Where you can reach me:</h3>
+<h3 align="left">Where to reach me:</h3>
 <h3 align="left">Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-omar-960142188" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="https://www.linkedin.com/in/mohammed-omar-960142188"/></a>
