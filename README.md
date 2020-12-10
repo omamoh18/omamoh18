@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/mohammed-omar-960142188" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="https://www.linkedin.com/in/mohammed-omar-960142188"/></a>
 <h3 align="left">Email:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Email-blue?style=flat&logo=email&labelColor=blue" alt="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""/></a>
 </p>
 
 <h3 align="left">Languages:</h3>
