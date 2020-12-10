@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohammed Omar</h1>
-<h3 align="center">I'm a third-year student at Kristiania University in Oslo.</h3>
+<h1 align="center">Hi 👋, My name is Mohammed Omar</h1>
+<h3 align="center">I'm currently completing my bachelor's degree at Kristiania University in Oslo, studying programming.</h3>
 
+<h3 align="left">Where you can reach me:</h3>
 <h3 align="left">Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-omar-960142188" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="https://www.linkedin.com/in/mohammed-omar-960142188"/></a>
@@ -24,4 +25,5 @@
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=omamoh18&show_icons=true&theme=chartreuse-dark" alt="omamoh18" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omamoh18&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="omamoh18" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=omamoh18&show_icons=true&theme=chartreuse-dark" alt="omamoh18" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omamoh18&show_icons=true&locale=en&langs_count=8&theme=chartreuse-dark" alt="omamoh18" /></p>
+
