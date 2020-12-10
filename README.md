@@ -4,7 +4,7 @@
 <h3 align="left">Where to reach me:</h3>
 <h3 align="left">Linkedin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-omar-960142188" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="https://www.linkedin.com/in/mohammed-omar-960142188"/></a>
+<a href="https://www.linkedin.com/in/mohammed-omar-960142188" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="https://www.linkedin.com/in/mohammed-omar-960142188"/></a>
 </p>
 
 <h3 align="left">Languages:</h3>
