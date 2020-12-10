@@ -26,5 +26,5 @@
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omamoh18&show_icons=true&theme=blue-green" alt="omamoh18" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omamoh18&show_icons=true&locale=en&langs_count=8&theme=blue-green" alt="omamoh18" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=omamoh18&show_icons=true&theme=blue-green" alt="omamoh18" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omamoh18&show_icons=true&locale=en&langs_count=8&theme=blue-green" alt="omamoh18" /></p>
 
