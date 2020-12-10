@@ -5,6 +5,9 @@
 <h3 align="left">Linkedin:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammed-omar-960142188" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="https://www.linkedin.com/in/mohammed-omar-960142188"/></a>
+<h3 align="left">Email:</h3>
+<p align="left">
+<a href="<email@example>" target="blank"><img align="center" src="https://img.shields.io/badge/Email-blue?style=flat&logo=email&labelColor=blue" alt="<email@example>"/></a>
 </p>
 
 <h3 align="left">Languages:</h3>
