@@ -13,7 +13,12 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=omamoh18&show_icons=true&theme=blue-green" alt="omamoh18" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omamoh18&show_icons=true&locale=en&langs_count=8&theme=blue-green" alt="omamoh18" /></p>
 
-![Snake animation](https://raw.githubusercontent.com/omamoh18/omamoh18/output/github-contribution-grid-snake.svg)
+### 🐍 Watch my contributions get eaten by a snake!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/omamoh18/omamoh18/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 
 
 
