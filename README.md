@@ -13,10 +13,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=omamoh18&show_icons=true&theme=blue-green" alt="omamoh18" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omamoh18&show_icons=true&locale=en&langs_count=8&theme=blue-green" alt="omamoh18" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://omamoh18.github.io/omamoh18/github-snake-dark.svg" />
-  <img alt="Snake animation" src="https://omamoh18.github.io/omamoh18/github-snake.svg" />
-</picture>
+![Snake animation (dark)](https://omamoh18.github.io/omamoh18/github-snake-dark.svg)
 
 
 
