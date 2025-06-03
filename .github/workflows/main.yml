@@ -1,34 +1,34 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repo
-      - uses: actions/checkout@v3
+      # ✅ Check out full repo history including output branch
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Needed for branch history
+          ref: main       # Make sure you base from main
 
-      # Generate Snake Animation SVG
-      - uses: Platane/snk@master
-        id: snake-gif
+      # 🐍 Generate the Snake SVG
+      - name: Generate snake animation
+        uses: Platane/snk@master
         with:
           github_user_name: omamoh18
-          svg_out_path: github-contribution-grid-snake.svg  # ✅ Output to root
+          svg_out_path: github-contribution-grid-snake.svg
 
-      # Deploy to GitHub Pages
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # 🚀 Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
-          build_dir: .  # ✅ Deploy from current directory
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
-
