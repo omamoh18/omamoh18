@@ -46,9 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omamoh18&show_icons=true&locale=en&langs_count=8&theme=blue-green" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://omamoh18.github.io/omamoh18/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+![Snake animation](https://raw.githubusercontent.com/omamoh18/omamoh18/output/github-contribution-grid-snake-dark.svg)
 
 
 
