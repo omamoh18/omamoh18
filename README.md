@@ -40,11 +40,7 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=omamoh18&theme=blue-green" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omamoh18&theme=github_dark" alt="Top Languages" />
-</div>
+![omamoh18's GitHub stats](https://raw.githubusercontent.com/omamoh18/omamoh18/main/profile-summary-card-output/github_dark/0-profile-details.svg)
 
 ![Snake animation](https://raw.githubusercontent.com/omamoh18/omamoh18/output/github-contribution-grid-snake-dark.svg)
 
