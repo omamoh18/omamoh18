@@ -40,8 +40,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-### 📊 GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=omamoh18&theme=blue-green" alt="GitHub Streak" />
   <br />
