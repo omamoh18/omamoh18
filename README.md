@@ -40,11 +40,11 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=omamoh18&theme=blue-green" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omamoh18&theme=github_dark" alt="Top Languages" />
-</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=omamoh18&theme=neon&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-linguist.vercel.app/api/top-langs/?username=omamoh18&layout=compact&theme=neon&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Snake animation](https://raw.githubusercontent.com/omamoh18/omamoh18/output/github-contribution-grid-snake-dark.svg)
 
