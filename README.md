@@ -40,7 +40,10 @@
 ---
 
 ### 📊 GitHub Stats
-![omamoh18's GitHub stats](https://raw.githubusercontent.com/omamoh18/omamoh18/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=omamoh18&theme=blue-green)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-linguist.vercel.app/api/top-langs/?username=omamoh18&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://raw.githubusercontent.com/omamoh18/omamoh18/output/github-contribution-grid-snake-dark.svg)
 
